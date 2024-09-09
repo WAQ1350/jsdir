@@ -3,7 +3,7 @@
 ## 概述
 
 该工具用于从JavaScript文件中提取API路径，并生成一个功能丰富的HTML文件。生成的HTML文件不仅展示了提取的路径，还提供了多种实用的用户交互功能。
-![效果图]https://github.com/WAQ1350/jsdir/blob/main/img/Snipaste_2024-09-09_20-56-07.png
+![效果图](https://github.com/WAQ1350/jsdir/blob/main/img/Snipaste_2024-09-09_20-56-07.png)
 
 ## 功能特点
 
